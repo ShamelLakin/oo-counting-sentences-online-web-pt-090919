@@ -3,9 +3,9 @@ require 'pry'
 class String
 
   def sentence?
-    
+  
   end
-
+binding.pry
   def question?
 
   end
