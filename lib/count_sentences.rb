@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-  self.split.count { |x| x%2 == 0 }
+  self.split.('.!?').count('.!?')
   end
 end
